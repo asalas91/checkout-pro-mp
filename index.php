@@ -491,16 +491,11 @@
                                             Smartphones
                                         </h2>
                                     </button>
-
-
                                 </div>
-
                             </div>
                         </div>
                         <div class="as-accessories-results  as-search-desktop">
                             <div class="column as-search-filters" aria-hidden="false" id="as-search-filters" style="position: relative;">
-
-
                                 <div class="as-search-filter-container" style="transform: translate3d(0px, 0px, 0px);">
                                     <ul class="as-accordion-list">
                                         <li class="as-accordion-item">
@@ -621,18 +616,13 @@
 
                                             </div>
                                         </li>
-
                                     </ul>
                                 </div>
-
-
                             </div>
                             <div class="column small-12 as-search-results-tiles as-search-results-width">
-
                                 <div class="as-producttile large-4 small-6 group-1">
                                     <div class="as-producttile-tilehero with-paddlenav with-paddlenav-onhover">
                                         <div class="as-dummy-container as-dummy-img">
-
                                             <img src="./assets/samsung-galaxy-s9-xxl.jpg" class="ir ir item-image as-producttile-image  " alt="" width="445" height="445">
                                         </div>
                                         <div class="images mini-gallery gal1 ">
@@ -652,7 +642,6 @@
                                                 </div>
                                             </div>
                                         </div>
-
                                     </div>
                                     <div class="as-producttile-info" style="min-height: 168px;">
                                         <div class="as-producttile-titlepricewraper" style="min-height: 128px;">
@@ -661,7 +650,6 @@
                                                     <p class="as-producttile-tilelink">
                                                         <span data-ase-truncate="2">Samsung Galaxy S9</span>
                                                     </p>
-
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
@@ -680,21 +668,17 @@
                                 <div class="as-producttile large-4 small-6 group-1">
                                     <div class="as-producttile-tilehero with-paddlenav with-paddlenav-onhover">
                                         <div class="as-dummy-container as-dummy-img">
-
                                             <img src="./assets/l6g6.jpg" class="ir ir item-image as-producttile-image " alt="" width="445" height="445">
                                         </div>
                                         <div class="images mini-gallery gal2 ">
-
                                             <div class="as-isdesktop with-paddlenav with-paddlenav-onhover">
                                                 <div class="clearfix image-list xs-no-js as-util-relatedlink relatedlink" data-relatedlink="3|BeatsX Earphones - UNDEFEATED Limited Edition - Camo|MQD92">
                                                     <div class="as-tilegallery-element as-image-selected">
                                                         <div class=""></div>
                                                         <img src="./assets/l6g6.jpg" class="ir ir item-image as-producttile-image" alt="" width="445" height="445" data-desc="LG G6" style="">
                                                     </div>
-
                                                 </div>
                                             </div>
-
                                             <div class="as-isipad" aria-hidden="true">
                                                 <ul class="clearfix">
                                                     <li class="as-searchtile-mobile">
